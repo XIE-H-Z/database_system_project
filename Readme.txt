@@ -133,3 +133,12 @@ order_id	訂單編號
 fulfillment_type	配送方式
 fulfillment_status	配送狀態
 tracking_no	物流編號
+
+使用MariaDB10.11.2版本
+資料庫建置
+建立資料表：
+source C:/Users/user/Downloads/group_buying_schema_mariadb.sql;
+輸入範例值：
+source C:/Users/user/Desktop/samplevalue.sql;
+查表：
+source C:/Users/user/Desktop/selectcode.sql;
