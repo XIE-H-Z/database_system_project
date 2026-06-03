@@ -40,6 +40,8 @@ Member
 source C:/Users/user/Downloads/group_buying_schema_mariadb.sql;
 輸入範例值：
 source C:/Users/user/Desktop/samplevalue.sql;
+查表：
+source C:/Users/user/Desktop/selectcode.sql;
 
 🗄️ 資料表設計
 Member（會員）
@@ -144,5 +146,4 @@ fulfillment_status	配送狀態
 tracking_no	物流編號
 
 
-查表：
-source C:/Users/user/Desktop/selectcode.sql;
+
